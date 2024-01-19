@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://situ.celebrityrecognitionapi.com/superjp/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/gilajp/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/gojekpot/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/winstrike69/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/slotgacor/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/slotzeus/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/kaptenjackpot/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/boosterjp/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/kerajaanslot/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/pakong86/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/viral88/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/clan4d/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/dinamit4d/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/elang212/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/gori77/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/viral4d/sitemap.xml
+Sitemap: http://situ.celebrityrecognitionapi.com/playground88/sitemap.xml
